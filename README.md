@@ -25,4 +25,9 @@ Please Complete this Test for Extra Credit.
     25 &lt; 7<br/>
     <input type="radio" name="5x5" >
     34 &gt; 43<br/>
+Mike has 12 dogs at his shelter, Tom adopted 4, Kristen adopted 7. But, Mike's coworker Helen brought in 4 new dogs today. <br>How many dogs are at the shelter?:<br/>Explain how you would find this below: 
+    <textarea></textarea>
+    <br>Check your answers and Submit when done!<br/>
+  <input type="submit">
+  <br/><!--END OF MATH TEST-->
 </form>
